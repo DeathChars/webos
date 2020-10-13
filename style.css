@@ -32,6 +32,9 @@ input {
 .container {
   max-width: 1170px;
 }
+.logo:hover {
+  opacity: 0.6;
+}
 .main-button {
   border: solid #ffffff 2px;
   color: #ffffff;
@@ -43,7 +46,7 @@ input {
 .main-button:hover {
   text-decoration: none;
   color: #c0301c;
-  border-color: #c0301c;
+  background-color: #ffffff;
 }
 .main-start {
   padding-top: 95px;
